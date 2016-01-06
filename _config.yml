@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Nida Farooqui
+tagline:             'The Personal Blog of Nida Farooqui'
+description:         'My personal blog where I talk about all things technology. <a href="https://twitter.com/nidafarooqui327" target="_blank">@nidafarooqui327</a>.'
+url:                 http://nidafarooqui.github.io
+baseurl:             ''
+paginate:            5
+gems:                [jekyll-paginate]
+paginate_path:       "page:num"
+
+# About/contact
+author:
+  name:              Nida Farooqui
+  url:               https://twitter.com/nidafarooqui327
+  email:             nidafarooqui327@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+github:
+  repo:           github.com/nidafarooqui
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
