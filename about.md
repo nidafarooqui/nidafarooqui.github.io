@@ -4,7 +4,6 @@ title: About
 ---
 
 <p class = "message">
-<<<<<<< HEAD
   Hey there! Feel free to read my sob story or skip ahead to the awesome list of curated resources I share on full stack web development.
 </p>
 
