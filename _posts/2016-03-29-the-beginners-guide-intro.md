@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: The Beginner's Guide to Web Development
 comments: true
 ---
