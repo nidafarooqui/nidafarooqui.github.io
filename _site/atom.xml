@@ -4,7 +4,7 @@
  <title>Nida Farooqui</title>
  <link href="http://nidafarooqui.github.io/atom.xml" rel="self"/>
  <link href="http://nidafarooqui.github.io/"/>
- <updated>2016-03-12T20:36:03+03:00</updated>
+ <updated>2016-03-29T13:29:59+03:00</updated>
  <id>http://nidafarooqui.github.io</id>
  <author>
    <name>Nida Farooqui</name>
@@ -13,21 +13,58 @@
 
  
  <entry>
-   <title>The Developer Entrepreneur</title>
-   <link href="http://nidafarooqui.github.io/2016/03/12/the-developer-entrepreneur/"/>
-   <updated>2016-03-12T00:00:00+03:00</updated>
-   <id>http://nidafarooqui.github.io/2016/03/12/the-developer-entrepreneur</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt; Welcome to the developer entrepreneur blog series where you receive weekly lessons on building your own startup. &lt;/div&gt;
+   <title>The Beginner's Guide to Web Development</title>
+   <link href="http://nidafarooqui.github.io/2016/03/29/the-beginners-guide-intro/"/>
+   <updated>2016-03-29T00:00:00+03:00</updated>
+   <id>http://nidafarooqui.github.io/2016/03/29/the-beginners-guide-intro</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt; Welcome to The Beginner&#39;s Guide to Web Development. A series of posts where I talk about the best places to learn web development. &lt;/div&gt;
 
-&lt;p&gt;Before you read on, I’m going to tell you this. This isn’t geared towards everyone.&lt;/p&gt;
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
 
-&lt;p&gt;If you don’t care about web development, trust me, this site isn’t for you. I have a different approach here and it is only for the developers or the wanna-be developers who want to build their own startup and live an independent lifestyle.&lt;/p&gt;
+&lt;p&gt;In this guide, we will cover basic web development - enough to get you started in building small and simple websites. We will go over the following lessons in order.&lt;/p&gt;
 
-&lt;p&gt;It&amp;#39;s possible and not so hard once you put in the work.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;HTML &amp;amp; CSS&lt;/li&gt;
+  &lt;li&gt;Javascript Introduction&lt;/li&gt;
+  &lt;li&gt;jQuery&lt;/li&gt;
+  &lt;li&gt;jQuery &amp;amp; Ajax&lt;/li&gt;
+  &lt;li&gt;The Final Project&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Every week I will Insha Allah set a goal both for myself and you to complete. We’ll be covering a lot of materials ranging from web development to marketing to copywriting for developers. So hang on tight!&lt;/p&gt;
+&lt;p&gt;This course assumes you have no knowledge of programming or have very little programming experience.&lt;/p&gt;
 
-&lt;p&gt;Bookmark this tab and tune in next week for your first lesson.&lt;/p&gt;
+&lt;h3 id=&quot;lesson-1---html--css&quot;&gt;Lesson 1 - HTML &amp;amp; CSS&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;It’s best to start with HTML &amp;amp; CSS. If you are completely new to programming head over to &lt;a href=&quot;https://codeacademy.com&quot;&gt;Code Academy&lt;/a&gt; and start off with their &lt;em&gt;HTML &amp;amp; CSS&lt;/em&gt; course.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then complete their &lt;em&gt;Make a Website&lt;/em&gt; course.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are already familiar with HTML &amp;amp; CSS, skip to Step 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Go over these three in order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.htmldog.com/guides/html/beginner/&quot;&gt;HTML Dog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/html-css/&quot;&gt;Learn To Code in HTML and CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.shayhowe.com/advanced-html-css/&quot;&gt;Learn To Code Advanced HTML and CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t just read or skim through these websites. Do the examples yourself and build along with them. If you feel you need more practice (I know I did), head over to &lt;a href=&quot;http://www.theodinproject.com/web-development-101/html-css&quot;&gt;The Odin Project&lt;/a&gt; and do their project.&lt;/p&gt;
+
+&lt;p&gt;Try doing both the easy and the difficult version. Don’t overdo it though. You’ll get more practice later. Trust me for now and do just these.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Estimated Time: 3 weeks or less.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s it for HTML and CSS. Next lesson I am going to introduce you to Javascript.&lt;/p&gt;
 </content>
  </entry>
  

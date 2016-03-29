@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:  pygments
+markdown:     kramdown
+highlighter:  rouge
 
 # Permalinks
 #
@@ -31,4 +31,5 @@ github:
   repo:           github.com/nidafarooqui
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+pages_list:       {"The Beginner's Guide to Web Development":"/2016/03/29/the-beginners-guide-intro/"}
+#pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
