@@ -8,7 +8,7 @@ comments: true
 <div class="message"> Welcome to The Beginner's Guide to Web Development. A series of posts where I talk about the best places to learn web development. </div>
 
 
-###Introduction###
+### Introduction
 
 In this guide, we will cover basic web development - enough to get you started in building small and simple websites. We will go over the following lessons in order.
 
@@ -20,7 +20,7 @@ In this guide, we will cover basic web development - enough to get you started i
 
 This course assumes you have no knowledge of programming or have very little programming experience.
 
-###Lesson 1 - HTML & CSS
+### Lesson 1 - HTML & CSS
 
 
 <strong>Step 1</strong>

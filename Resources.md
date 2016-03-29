@@ -6,7 +6,8 @@ title: Curated Resources
   Here's a list of curated resources I've been using in learning web development. I plan on updating it as I go along. Feel free to share your own below.
 </p>
 
-##HTML & CSS
+## HTML & CSS
+
 * [Code Academy](https://codeacademy.com)
   * HTML & CSS
   * Make a Website
@@ -25,7 +26,8 @@ title: Curated Resources
 * [HTML5 Rocks](http://www.html5rocks.com/en/)
 * [FreeCodeCamp HTML & CSS](http://www.freecodecamp.com/map#html5-and-css)
 
-##JavaScript & jQuery
+## JavaScript & jQuery
+
 * [Javascript Road Trip 1, 2 & 3](http://javascript-roadtrip.codeschool.com/)
 * [Codeacademy's Javascript](https://codeacademy.com)
 * [Try jQuery](try.jquery.com/)
