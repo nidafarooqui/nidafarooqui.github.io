@@ -46,3 +46,5 @@ Try doing both the easy and the difficult version. Don't overdo it though. You'l
 *Estimated Time: 3 weeks or less.*
 
 That's it for HTML and CSS. Next lesson I am going to introduce you to Javascript.
+
+{% include comments.html %}
