@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curated Resources
+permalink: /resources/
 tags:
   - resources
   - web development
