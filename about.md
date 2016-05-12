@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 ---
 <div class="message">
   Howdy! I've made a list of <a href= "/Resources"> curated resources</a> I've used to teach myself full stack development. Feel free to go through them at your own pace.

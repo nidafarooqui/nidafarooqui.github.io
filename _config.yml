@@ -10,8 +10,8 @@ permalink:           pretty
 
 # Setup
 title:               Nida Farooqui
-tagline:             'The Personal Blog of Nida Farooqui'
-description:         'My personal blog where I talk about all things technology. <a href="https://twitter.com/nidafarooqui327" target="_blank">@nidafarooqui327</a>.'
+tagline:             'Software Engineer'
+description:         'Developer and web enthusiast.'
 url:                 http://nidafarooqui.github.io
 baseurl:             ''
 paginate:            5
@@ -21,8 +21,12 @@ paginate_path:       "page:num"
 # About/contact
 author:
   name:              Nida Farooqui
-  url:               https://twitter.com/nidafarooqui327
-  email:             nidafarooqui327@gmail.com
+  twitter:           nidafarooqui327
+  email:             nidafarooqui4@gmail.com
+  github:            nidafarooqui
+  linkedin:          nidafarooqui
+  gravatar_md5:      503788cf74ea60bfdd12ee8cdcb348af
+  disqus_shortname:  nidafarooqui
 
 # Custom vars
 version:             1.0.0
@@ -31,5 +35,5 @@ github:
   repo:           github.com/nidafarooqui
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {"The Beginner's Guide to Web Development":"/2016/03/29/the-beginners-guide-intro/"}
+pages_list:       {"Curated Resources for Web Development":"Resources"}
 #pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
