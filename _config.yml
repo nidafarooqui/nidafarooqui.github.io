@@ -20,9 +20,9 @@ paginate_path:       "page:num"
 
 # About/contact
 author:
-  name:              Nida Farooqui
+  name:              'Nida Farooqui'
   twitter:           nidafarooqui327
-  email:             nidafarooqui4@gmail.com
+  email:             'nidafarooqui4[at]gmail[dot]com'
   github:            nidafarooqui
   linkedin:          nidafarooqui
   gravatar_md5:      503788cf74ea60bfdd12ee8cdcb348af
