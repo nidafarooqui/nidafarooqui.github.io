@@ -2,6 +2,10 @@
 layout: post
 title: The Beginner's Guide to Web Development
 comments: true
+tags:
+  - resources
+  - web development
+  - featured
 ---
 
 

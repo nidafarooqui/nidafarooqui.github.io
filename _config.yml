@@ -35,5 +35,5 @@ github:
   repo:           github.com/nidafarooqui
 
 # This is the list of pages to incldue in the header of the website.
-pages_list:       {"Curated Resources for Web Development":"Resources"}
+pages_list:       {"Curated Resources for Web Development":"/resources"}
 #pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}

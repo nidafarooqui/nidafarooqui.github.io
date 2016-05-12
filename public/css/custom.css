@@ -17,3 +17,105 @@
 	width: 160px;
 	margin: 0 auto;
 }
+// for tag cloud and archives
+.tag-cloud {
+  list-style: none;
+  padding: 0;
+  text-align: justify;
+  font-size: 16px;
+  li {
+    display: inline-block;
+    margin: 0 12px 12px 0;
+  }
+}
+#archives {
+  padding: 5px;
+}
+.archive-group {
+  margin: 5px;
+  border-top: 1px solid #ddd;
+}
+.archive-item {
+  margin-left: 5px;
+}
+.post-tags {
+  text-align: right;
+}
+
+
+//badge css
+.badge {
+	background-color: #999;
+	border-radius: 3.75em;
+	color: black;
+	display: inline-block;
+	font-size: 0.75em;
+	font-weight: 600;
+	line-height: 1;
+	padding: 0.4em 1.2em;
+}
+
+.badge-alert {
+	background-color: #fff6bf;
+	border-radius: 3.75em;
+	color: #8c7800;
+	display: inline-block;
+	font-size: 0.75em;
+	font-weight: 600;
+	line-height: 1;
+	padding: 0.4em 1.2em;
+}
+
+.badge-error {
+	background-color: #fbe3e4;
+	border-radius: 3.75em;
+	color: #97161b;
+	display: inline-block;
+	font-size: 0.75em;
+	font-weight: 600;
+	line-height: 1;
+	padding: 0.4em 1.2em;
+}
+
+.badge-notice {
+	background-color: #e5edf8;
+	border-radius: 3.75em;
+	color: #244e87;
+	display: inline-block;
+	font-size: 0.75em;
+	font-weight: 600;
+	line-height: 1;
+	padding: 0.4em 1.2em;
+}
+
+.badge-success {
+	background-color: #e6efc2;
+	border-radius: 3.75em;
+	color: #56651a;
+	display: inline-block;
+	font-size: 0.75em;
+	font-weight: 600;
+	line-height: 1;
+	padding: 0.4em 1.2em;
+}
+
+.tag-header {
+    letter-spacing: -0.02em;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 1.2;
+    padding-top: 31px;
+    margin-bottom: 4px;
+}
+
+.li {
+		padding: 0;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 23px;
+    line-height: 30px;
+    margin-left: 30px;
+    margin-bottom: 12px;
+    padding-top: 2px;
+	}

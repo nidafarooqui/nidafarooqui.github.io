@@ -2,6 +2,10 @@
 layout: post
 title: Example content
 comments: true
+tags:
+  - resources
+  - web development
+  - featured
 ---
 
 
