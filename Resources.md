@@ -3,9 +3,9 @@ layout: page
 title: Curated Resources
 permalink: /resources/
 tags:
-  - resources
-  - web development
-  - featured
+  - Resources
+  - Web Development
+  - Featured
 ---
 <p class="message">
   Here's a list of curated resources I've been using in learning web development. I plan on updating it as I go along. Feel free to share your own below.
