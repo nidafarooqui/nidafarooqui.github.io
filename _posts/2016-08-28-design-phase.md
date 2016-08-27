@@ -1,21 +1,12 @@
 ---
 layout: post
-title: Introducing Web Development
+title: The Design Phase
 comments: true
 tags:
   - Landing Page
   - Web Development
   - Mini Projects
 ---
-
-  * * *
-- [Writing is hard.](#writing-is-hard)
-- [The Plan](#the-plan)
-- [Introducing Web Development 101](#introducing-web-development-101)
-  - [A Landing Page](#a-landing-page)
-  - [Requirements](#requirements)
-  - [Additional Rules](#additional-rules)
-- [Further Steps](#further-steps)
 
 ### Writing is hard.
 
@@ -27,7 +18,7 @@ At least not to me.
 
 So I'm just going to start off by writing from the very beginning on what I know about web development.
 
-This will probably be a long series but it will be unassuming (hopefully) to the reader, pretending you don't know anything about web development.
+This'll probably be a long series but it will be unassuming (hopefully) to the reader, pretending you don't know anything about web development.
 
 When you talk about web development, the problem arises, well, where do you begin?
 
@@ -48,6 +39,12 @@ I'm picking Javascript and Ruby because I love Javascript and coding in Ruby on 
 Hello web.
 
 Let's begin with our first mini project.
+
+> This is a blockquote.
+>     on multiple lines
+that may be lazy.
+>
+> This is the second paragraph.
 
 ### A Landing Page
 
@@ -87,8 +84,6 @@ Let's break this down into actionable steps or blocks that need to be build.
 1. Must use testing
 2. Must be responsive
 3. Must have wireframes.
-
-### Further Steps
 
 I know some people write everything all in one post. I just can't do that.
 

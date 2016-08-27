@@ -4,7 +4,7 @@
  <title>Nida Farooqui</title>
  <link href="http://nidafarooqui.github.io/atom.xml" rel="self"/>
  <link href="http://nidafarooqui.github.io/"/>
- <updated>2016-08-27T03:08:34+03:00</updated>
+ <updated>2016-08-27T03:45:05+03:00</updated>
  <id>http://nidafarooqui.github.io</id>
  <author>
    <name>Nida Farooqui</name>
@@ -17,7 +17,21 @@
    <link href="http://nidafarooqui.github.io/2016/08/27/introducing-web-development-101/"/>
    <updated>2016-08-27T00:00:00+03:00</updated>
    <id>http://nidafarooqui.github.io/2016/08/27/introducing-web-development-101</id>
-   <content type="html">&lt;h3 id=&quot;writing-is-hard&quot;&gt;Writing is hard.&lt;/h3&gt;
+   <content type="html">&lt;hr /&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#writing-is-hard&quot;&gt;Writing is hard.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-plan&quot;&gt;The Plan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#introducing-web-development-101&quot;&gt;Introducing Web Development 101&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-landing-page&quot;&gt;A Landing Page&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#requirements&quot;&gt;Requirements&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#additional-rules&quot;&gt;Additional Rules&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#further-steps&quot;&gt;Further Steps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;writing-is-hard&quot;&gt;Writing is hard.&lt;/h3&gt;
 
 &lt;p&gt;Especially when you’re not sure what to write about.&lt;/p&gt;
 
@@ -27,7 +41,7 @@
 
 &lt;p&gt;So I’m just going to start off by writing from the very beginning on what I know about web development.&lt;/p&gt;
 
-&lt;p&gt;This’ll probably be a long series but it will be unassuming (hopefully) to the reader, pretending you don’t know anything about web development.&lt;/p&gt;
+&lt;p&gt;This will probably be a long series but it will be unassuming (hopefully) to the reader, pretending you don’t know anything about web development.&lt;/p&gt;
 
 &lt;p&gt;When you talk about web development, the problem arises, well, where do you begin?&lt;/p&gt;
 
@@ -48,7 +62,7 @@
 
 &lt;p&gt;Let’s begin with our first mini project.&lt;/p&gt;
 
-&lt;h4 id=&quot;a-landing-page&quot;&gt;A Landing Page&lt;/h4&gt;
+&lt;h3 id=&quot;a-landing-page&quot;&gt;A Landing Page&lt;/h3&gt;
 
 &lt;p&gt;No Ruby here. Just plain HTML, CSS and JavaScript.&lt;/p&gt;
 
@@ -96,6 +110,8 @@
   &lt;li&gt;Must be responsive&lt;/li&gt;
   &lt;li&gt;Must have wireframes.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h3 id=&quot;further-steps&quot;&gt;Further Steps&lt;/h3&gt;
 
 &lt;p&gt;I know some people write everything all in one post. I just can’t do that.&lt;/p&gt;
 
