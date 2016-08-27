@@ -4,7 +4,7 @@
  <title>Nida Farooqui</title>
  <link href="http://nidafarooqui.github.io/atom.xml" rel="self"/>
  <link href="http://nidafarooqui.github.io/"/>
- <updated>2016-05-15T00:47:48+03:00</updated>
+ <updated>2016-08-27T03:08:34+03:00</updated>
  <id>http://nidafarooqui.github.io</id>
  <author>
    <name>Nida Farooqui</name>
@@ -13,152 +13,106 @@
 
  
  <entry>
-   <title>Example content</title>
-   <link href="http://nidafarooqui.github.io/2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00+03:00</updated>
-   <id>http://nidafarooqui.github.io/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
+   <title>Introducing Web Development</title>
+   <link href="http://nidafarooqui.github.io/2016/08/27/introducing-web-development-101/"/>
+   <updated>2016-08-27T00:00:00+03:00</updated>
+   <id>http://nidafarooqui.github.io/2016/08/27/introducing-web-development-101</id>
+   <content type="html">&lt;h3 id=&quot;writing-is-hard&quot;&gt;Writing is hard.&lt;/h3&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;Especially when you’re not sure what to write about.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;But if you keep putting it off because you’re waiting for the right moment when the spark finally hits you and you’re overloaded with ideas on web development topics galore — well, that’ll never happen.&lt;/p&gt;
 
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+&lt;p&gt;At least not to me.&lt;/p&gt;
 
-&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+&lt;p&gt;So I’m just going to start off by writing from the very beginning on what I know about web development.&lt;/p&gt;
 
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This’ll probably be a long series but it will be unassuming (hopefully) to the reader, pretending you don’t know anything about web development.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;When you talk about web development, the problem arises, well, where do you begin?&lt;/p&gt;
 
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+&lt;p&gt;Do you start from the very beginning and cover HTML and CSS or do you skip all the design part and dive in straight to coding?&lt;/p&gt;
 
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+&lt;p&gt;Well I haven’t figured out that out just yet. I think I’ll do it as we go along but we will dive head first and deep into programming through projects.&lt;/p&gt;
 
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+&lt;h3 id=&quot;the-plan&quot;&gt;The Plan&lt;/h3&gt;
+&lt;p&gt;I’m going to make a bold statement here and say I will plan a project (a mini one) and develop it here, helping you get familiar with the language and on developing web apps.&lt;/p&gt;
 
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+&lt;p&gt;But before we do that, let’s start by picking a language. Or two.&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;p&gt;I’m picking Javascript and Ruby because I love Javascript and coding in Ruby on Rails is easy and helps develop best practices. After that I plan to dive into Node and cover full stack javascript development in the future.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
-&lt;/span&gt;
+&lt;h2 id=&quot;introducing-web-development-101&quot;&gt;Introducing Web Development 101&lt;/h2&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
-&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;p&gt;Hello web.&lt;/p&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Call the function
-&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Let’s begin with our first mini project.&lt;/p&gt;
 
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+&lt;h4 id=&quot;a-landing-page&quot;&gt;A Landing Page&lt;/h4&gt;
 
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+&lt;p&gt;No Ruby here. Just plain HTML, CSS and JavaScript.&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+&lt;p&gt;Our task will be to build a landing page that fulfils the following requirements I got from a senior developer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Goals For The Landing Page:&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+  &lt;li&gt;Inform visitors about the app and how it can help them.&lt;/li&gt;
+  &lt;li&gt;Convert visitors to signup for a newsletter/notification about the upcoming closed beta of the app.&lt;/li&gt;
+  &lt;li&gt;Lastly convert visitors to social media followers for updates and engagement.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Possible Steps Needed To Achieve Goals:&lt;/em&gt;&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Content Development&lt;/li&gt;
+  &lt;li&gt;Sketch a Wireframe &lt;em&gt;(Using Paper or Whiteboard or Software)&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Design &amp;amp; Develop&lt;/li&gt;
+  &lt;li&gt;Extensive Testing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Constraints:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Time-limit: 7 Days&lt;/li&gt;
+  &lt;li&gt;Must use Git&lt;/li&gt;
+  &lt;li&gt;Must use Responsive Design&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s break this down into actionable steps or blocks that need to be build.&lt;/p&gt;
+
+&lt;p&gt;(At least that’s how I process information.)&lt;/p&gt;
+
+&lt;h4 id=&quot;requirements&quot;&gt;Requirements&lt;/h4&gt;
 &lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+  &lt;li&gt;A signup bar that takes in email addresses and redirects them to a thank you page.&lt;/li&gt;
+  &lt;li&gt;Slide in animated information about the features of the app&lt;/li&gt;
+  &lt;li&gt;Social media buttons&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+&lt;h4 id=&quot;additional-rules&quot;&gt;Additional Rules&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Must use testing&lt;/li&gt;
+  &lt;li&gt;Must be responsive&lt;/li&gt;
+  &lt;li&gt;Must have wireframes.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+&lt;p&gt;I know some people write everything all in one post. I just can’t do that.&lt;/p&gt;
 
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+&lt;p&gt;So I’m going to make each block that needs to be build a blog post and cover how I build it starting with the design phase.&lt;/p&gt;
 
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;p&gt;You can view them all here:&lt;/p&gt;
 
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;!-- Add Disqus comments. --&gt;&lt;/p&gt;
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = &#39;nidafarooqui&#39;; // required: replace example with your forum shortname
-      /* * * DON&#39;T EDIT BELOW THIS LINE * * */
-      (function() {
-          var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
-          dsq.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
-          (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
-      })();
-  &lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;p&gt;&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/08/27/introducing-web-development-101/&quot;&gt;Day 0 - Introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/08/28/design-phase/&quot;&gt;Day 1 - The Design Phase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/08/29/the-layout/&quot;&gt;Day 2 - The Layout &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/08/30/slidein-animations/&quot;&gt;Day 3 - Slide in Animations &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/08/01/signup-form/&quot;&gt;Day 4 - Sign up Form &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/09/02/social-media/&quot;&gt;Day 5 - Social Media Buttons &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/09/03/testing/&quot;&gt;Day 6 - Cross Browser Testing &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nidafarooqui.github.io/2016/09/04/wrap-up/&quot;&gt;Day 7 - Wrap Up &amp;amp; Conclusion &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  

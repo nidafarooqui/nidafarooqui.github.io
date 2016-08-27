@@ -8,7 +8,7 @@ tags:
   - Mini Projects
 ---
 
-####Writing is hard.
+### Writing is hard.
 
 Especially when you're not sure what to write about.
 
@@ -27,20 +27,20 @@ Do you start from the very beginning and cover HTML and CSS or do you skip all t
 Well I haven't figured out that out just yet. I think I'll do it as we go along but we will dive head first and deep into programming through projects.
 
 
-###The Plan
+### The Plan
 I'm going to make a bold statement here and say I will plan a project (a mini one) and develop it here, helping you get familiar with the language and on developing web apps.
 
 But before we do that, let's start by picking a language. Or two.
 
 I'm picking Javascript and Ruby because I love Javascript and coding in Ruby on Rails is easy and helps develop best practices. After that I plan to dive into Node and cover full stack javascript development in the future.
 
-###Introducing Web Development 101
+## Introducing Web Development 101
 
 Hello web.
 
 Let's begin with our first mini project.
 
-####A Landing Page
+#### A Landing Page
 
 No Ruby here. Just plain HTML, CSS and JavaScript.
 
@@ -69,12 +69,12 @@ Let's break this down into actionable steps or blocks that need to be build.
 
 (At least that's how I process information.)
 
-####Requirements
+#### Requirements
 1. A signup bar that takes in email addresses and redirects them to a thank you page.
 2. Slide in animated information about the features of the app
 3. Social media buttons
 
-####Additional Rules
+#### Additional Rules
 1. Must use testing
 2. Must be responsive
 3. Must have wireframes.
