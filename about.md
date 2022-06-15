@@ -8,4 +8,3 @@ title: About
 
 I'm a software engineer with a background in C++, Java and C# now learning web development. I post code explanations, tutorials and anything interesting I come across. Feel free to contact me if you need help.
 
-{% include twitter_follow_plug.html %}
